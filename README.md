@@ -1,4 +1,5 @@
-Features
+Features:
+
  Add new items with name, price, and stock
 
  Change the price of existing items
@@ -8,8 +9,9 @@ Features
  View a list of all items with details
 
  Data stored in memory using ArrayList
+ 
 
-How It Works
+How It Works:
 
 When the program starts, it shows a menu of options.
 
@@ -32,7 +34,7 @@ For viewing inventory, the program prints all items in a table format.
 The program keeps running until you choose to exit.
 
 
-Concepts Used
+Concepts Used:
 
 OOP (Object-Oriented Programming) – Item class with private fields, getters, and setters
 
